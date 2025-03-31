@@ -1,0 +1,8 @@
+name: FiveMinutePortalLock
+main: com.noctify.FiveMinutePortalLock.FiveMinutePortalLock
+version: 1.0
+api-version: 1.20
+description: A plugin that locks the End return portal for 5 minutes after the Ender Dragon dies.
+author: Noctify
+commands: {}
+permissions: {}
